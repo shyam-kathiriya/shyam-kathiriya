@@ -7,7 +7,6 @@ ReactJS Developer
 I'm Shyam, a passionate and experienced web developer with a focus on frontend technologies. With 1.5 years of professional experience, I have honed my skills in HTML, CSS, JavaScript, TypeScript, React.js and Next.js.
 
 * 🌍  I'm based in Ahmedabad, Gujarat
-* ✉️  You can contact me at [shyam.kathiriya@saeculumsolutions.com](mailto:shyam.kathiriya@saeculumsolutions.com)
 * 🚀  I'm currently working on [Saeculum Solutions Pvt Ltd.](http://saeculumsolutions.com/)
 * 🤝  I'm open to collaborating on Web development project which are made with Next.js
 
